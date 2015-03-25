@@ -1,0 +1,10 @@
+.column {
+	width: 170px;
+	float: left;
+	padding-bottom: 100px;
+}
+.portlet {
+	margin: 0 1em 1em 0;
+	color: red;
+	border-radius: 4px;
+}
